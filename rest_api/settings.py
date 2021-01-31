@@ -29,8 +29,6 @@ SECRET_KEY = config('SECRET_KEY')
 DEBUG = config('DEBUG')
 
 ALLOWED_HOSTS = ['django-api-for-nextjs.herokuapp.com']
-
-
 # Application definition
 
 INSTALLED_APPS = [
